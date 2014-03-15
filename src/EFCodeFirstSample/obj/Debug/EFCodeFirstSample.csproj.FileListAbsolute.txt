@@ -1,0 +1,9 @@
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\EFCodeFirstSample\EFCodeFirstSample\bin\Debug\EFCodeFirstSample.exe.config
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\EFCodeFirstSample\EFCodeFirstSample\bin\Debug\EFCodeFirstSample.exe
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\EFCodeFirstSample\EFCodeFirstSample\bin\Debug\EFCodeFirstSample.pdb
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\EFCodeFirstSample\EFCodeFirstSample\bin\Debug\EntityFramework.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\EFCodeFirstSample\EFCodeFirstSample\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\EFCodeFirstSample\EFCodeFirstSample\bin\Debug\EntityFramework.xml
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\EFCodeFirstSample\EFCodeFirstSample\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\EFCodeFirstSample\EFCodeFirstSample\obj\Debug\EFCodeFirstSample.exe
+c:\users\andrebaltieri\documents\visual studio 2013\Projects\EFCodeFirstSample\EFCodeFirstSample\obj\Debug\EFCodeFirstSample.pdb
