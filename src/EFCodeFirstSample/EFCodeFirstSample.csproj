@@ -50,6 +50,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataContexts\AppDataContext.cs" />
+    <Compile Include="Mappings\AutorMap.cs" />
+    <Compile Include="Mappings\CategoriaMap.cs" />
+    <Compile Include="Mappings\LivroMap.cs" />
     <Compile Include="Model\Autor.cs" />
     <Compile Include="Model\Categoria.cs" />
     <Compile Include="Model\Livro.cs" />
@@ -60,9 +63,7 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Mappings\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

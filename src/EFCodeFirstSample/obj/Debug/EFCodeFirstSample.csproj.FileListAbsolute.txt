@@ -7,3 +7,13 @@ c:\users\andrebaltieri\documents\visual studio 2013\Projects\EFCodeFirstSample\E
 c:\users\andrebaltieri\documents\visual studio 2013\Projects\EFCodeFirstSample\EFCodeFirstSample\bin\Debug\EntityFramework.SqlServer.xml
 c:\users\andrebaltieri\documents\visual studio 2013\Projects\EFCodeFirstSample\EFCodeFirstSample\obj\Debug\EFCodeFirstSample.exe
 c:\users\andrebaltieri\documents\visual studio 2013\Projects\EFCodeFirstSample\EFCodeFirstSample\obj\Debug\EFCodeFirstSample.pdb
+C:\development\repository\andrebaltieri\pessoal\ef-codefirst-sample\src\EFCodeFirstSample\bin\Debug\EFCodeFirstSample.exe.config
+C:\development\repository\andrebaltieri\pessoal\ef-codefirst-sample\src\EFCodeFirstSample\obj\Debug\EFCodeFirstSample.exe
+C:\development\repository\andrebaltieri\pessoal\ef-codefirst-sample\src\EFCodeFirstSample\obj\Debug\EFCodeFirstSample.pdb
+C:\development\repository\andrebaltieri\pessoal\ef-codefirst-sample\src\EFCodeFirstSample\bin\Debug\EFCodeFirstSample.exe
+C:\development\repository\andrebaltieri\pessoal\ef-codefirst-sample\src\EFCodeFirstSample\bin\Debug\EFCodeFirstSample.pdb
+C:\development\repository\andrebaltieri\pessoal\ef-codefirst-sample\src\EFCodeFirstSample\bin\Debug\EntityFramework.dll
+C:\development\repository\andrebaltieri\pessoal\ef-codefirst-sample\src\EFCodeFirstSample\bin\Debug\EntityFramework.SqlServer.dll
+C:\development\repository\andrebaltieri\pessoal\ef-codefirst-sample\src\EFCodeFirstSample\bin\Debug\EntityFramework.xml
+C:\development\repository\andrebaltieri\pessoal\ef-codefirst-sample\src\EFCodeFirstSample\bin\Debug\EntityFramework.SqlServer.xml
+C:\development\repository\andrebaltieri\pessoal\ef-codefirst-sample\src\EFCodeFirstSample\obj\Debug\EFCodeFirstSample.csprojResolveAssemblyReference.cache
